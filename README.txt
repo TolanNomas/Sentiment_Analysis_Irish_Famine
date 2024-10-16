@@ -14,9 +14,3 @@ This project performs sentiment analysis on texts related to the Irish Famine us
 - **data/**: Datasets related to the Irish Famine, folklore, and related metadata.
 - **fine_tuned_irish_bert/**: Folder containing the fine-tuned BERT model for sentiment analysis of Irish texts.
 - **results/**: Output data, including sentiment scores, figures, and visualizations.
-
-## Setup Instructions
-### Step 1: Clone the Repository
-```bash
-git clone https://github.com/TolanNomas/Sentiment_Analysis_Irish_Famine.git
-cd Sentiment_Analysis_Irish_Famine
