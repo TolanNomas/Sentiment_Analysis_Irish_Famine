@@ -2,3 +2,4 @@
 "fine_tuned_irish_bert/pytorch_model.bin" 
 "fine_tuned_irish_bert/" 
 "fine_tuned_irish_bert/" 
+"!fine_tuned_irish_bert/" 
