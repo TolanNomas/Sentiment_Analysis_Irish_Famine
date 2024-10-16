@@ -1,0 +1,10 @@
+fine_tuned_irish_bert/pytorch_model.bin filter=lfs diff=lfs merge=lfs -text
+files filter=lfs diff=lfs merge=lfs -text
+like filter=lfs diff=lfs merge=lfs -text
+your filter=lfs diff=lfs merge=lfs -text
+*.bin filter=lfs diff=lfs merge=lfs -text
+\# filter=lfs diff=lfs merge=lfs -text
+Tracks filter=lfs diff=lfs merge=lfs -text
+large filter=lfs diff=lfs merge=lfs -text
+binary filter=lfs diff=lfs merge=lfs -text
+model filter=lfs diff=lfs merge=lfs -text
